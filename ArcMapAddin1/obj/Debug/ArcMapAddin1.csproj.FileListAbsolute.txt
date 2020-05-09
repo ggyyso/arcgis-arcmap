@@ -1,0 +1,5 @@
+D:\Project\ArcMapAddin1\ArcMapAddin1\bin\Debug\ArcMapAddin1.dll
+D:\Project\ArcMapAddin1\ArcMapAddin1\bin\Debug\ArcMapAddin1.pdb
+D:\Project\ArcMapAddin1\ArcMapAddin1\obj\Debug\ArcMapAddin1.dll
+D:\Project\ArcMapAddin1\ArcMapAddin1\obj\Debug\ArcMapAddin1.pdb
+D:\Project\ArcMapAddin1\ArcMapAddin1\bin\Debug\ArcMapAddin1.esriAddIn
